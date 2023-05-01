@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 public enum LanguageEnum {
 
-    PT("Português", "pt-br_dictionary.txt"),
+    PT("Portuguese", "pt-br_dictionary.txt"),
     EN("English", "en_dictionary.txt");
 
 
